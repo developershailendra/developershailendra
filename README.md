@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developershailendra
+- 🌱 I’m currently working in Wipro
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning new skills
 - 💞️ I’m looking to collaborate on open source web development
 
 <!---
